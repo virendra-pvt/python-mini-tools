@@ -1,0 +1,40 @@
+# Python Mini Tools 🔧
+
+A collection of small Python projects created while learning Python and software development.
+
+## 📌 Project 1: Password Strength Checker
+
+This program checks the strength of a password based on different security conditions.
+
+### ✨ Features
+
+- Checks password length
+- Checks for uppercase letters
+- Checks for lowercase letters
+- Checks for numbers
+- Checks for special characters
+- Gives a strength score out of 5
+
+### 🛠️ Technologies Used
+
+- Python
+- Regular Expressions (`re` module)
+
+### ▶️ How to Run
+
+1. Make sure Python is installed.
+2. Download or clone this repository.
+3. Open the project folder in a terminal.
+4. Run:
+
+```bash
+python password_strength_checker.py
+🔐 Password Strength Checker
+------------------------------
+Enter your password: Hello123!
+
+Password Strength: Strong ✅
+Score: 5 / 5
+🎯 Purpose
+This project was created as part of my Python learning and GitHub contribution journey.
+⭐ More Python mini-projects will be added as I continue learning.
